@@ -1,4 +1,4 @@
 docker.io/curlimages/curl:8.9.1
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64
